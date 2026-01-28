@@ -17,7 +17,7 @@ Projetos focados em:
 - Lógica de programação
 - Formatação de resultados
 
-## Conteúdo do repositório
+## Conteúdos
 
 Este repositório contém diversos pequenos programas, como por exemplo:
 - Tabuada interativa  
